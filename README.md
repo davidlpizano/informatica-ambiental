@@ -1,22 +1,51 @@
 <div align="center">
   <img src="./img/banner.svg" alt="Banner Global" />
+
+  <br />
+
+  <p>
+    <b>🌍 Sostenibilidad y Salud Laboral desde la Perspectiva IT 🛡️</b>
+  </p>
+  
+  [![Markdown](https://img.shields.io/badge/Formato-Markdown-1f425f?style=flat-square&logo=markdown)](http://commonmark.org)
+  [![Git](https://img.shields.io/badge/Control_Versiones-Git-F05032?style=flat-square&logo=git)](https://git-scm.com/)
+
 </div>
-
-> **Presentación del Proyecto Conjunto:**  
-> Bienvenidos a nuestra iniciativa colaborativa. Este repositorio funciona como el eje central (hub) que conecta dos investigaciones fundamentales para el profesional IT de hoy en día. Por un lado, abordamos el cuidado del planeta entendiendo nuestro impacto; por otro lado, garantizamos proteger la salud física y mental del propio trabajador IT.
-
-### 🗂️ Estructura del Proyecto
-
-A continuación, puedes navegar y acceder a cada uno de los sub-proyectos donde se detalla y desarrolla minuciosamente cada bloque temático y sus requisitos:
-
-* 🌿 **[Proyecto 1: Informática Ambiental](./informatica-ambiental/README.md)**  
-  *Contaminación, Residuos Informáticos (E-Waste), Obsolescencia Programada e Informática Ecológica.*
-* 🛡️ **[Proyecto 2: Seguridad en el Trabajo](./seguridad-trabajo-informatica/README.md)**  
-  *Riesgos y Prevención de Riesgos desde el punto de vista Informático.*
 
 ---
 
-<details align="center">
-  <summary>👥 <b>Créditos y Autores (Clic para mostrar)</b></summary>
-  <p>Trabajo colaborativo realizado por <a href="https://github.com/davidlpizano"><b>David López</b></a> y <a href="https://github.com/sebasabido"><b>Sebas Sabido</b></a>.</p>
-</details>
+## 🎯 Nuestro Propósito
+
+Bienvenidos a este repositorio central (*Hub*). Este espacio colaborativo es el resultado de una importante investigación cruzada cuyo objetivo es debatir dos mundos esenciales (y a menudo olvidados) dentro del sector tecnológico contemporáneo:
+
+1. **La huella que dejamos en el medio ambiente:** *E-waste*, consumo de los enormes data centers y alternativas sostenibles reales.
+2. **La huella que el trabajo deja en nosotros mismos:** Prevención de lesiones físicas y protección psicosocial contra el síndrome de *Burnout*.
+
+---
+
+## 🗂️ Estructura del Proyecto
+
+A continuación, explora nuestros subproyectos accediendo mediante un solo clic a sus propios módulos independientes:
+
+| Subproyecto | Descripción / Resumen Temático |
+| :--- | :--- |
+| **🌿 [Informática Ambiental](./informatica-ambiental/README.md)** | Análisis técnico sobre componentes, contaminación del silicio, leyes anti-obsolescencia y *Green Computing*. |
+| **🛡️ [Seguridad y Salud IT](./seguridad-trabajo-informatica/README.md)** | Prevención de lesiones ergonómicas (Túnel carpiano, oculares), pausas activas y mobiliario homologado. |
+
+---
+
+## 👥 Autores y Desarrolladores
+
+Documentado íntegramente de manera conjunta. Puedes ver nuestro trabajo y otros repositorios a través de GitHub:
+
+<div align="center">
+  
+| 👨‍💻 **David López** | 💻 **Sebas Sabido** |
+| :---: | :---: |
+| [@davidlpizano](https://github.com/davidlpizano) | [@sebasabido](https://github.com/sebasabido) |
+
+</div>
+
+<br>
+
+> *Desarrollado con dedicación por un entorno informático más limpio y saludable.*
