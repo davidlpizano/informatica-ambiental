@@ -13,13 +13,6 @@
 
 ---
 
-<details align="center">
-  <summary>✨ <b>Funcionalidad Especial de Markdown (Clic aquí)</b></summary>
-  <p>En este repositorio se implementan banners visuales dinámicos interactuando con la <b>API web de Capsule Render (HTML embebido)</b>, la etiqueta html <code>&lt;details&gt;</code> para colapsar esta capa, y <b>notas al pie de página (footnotes)</b> nativas de Markdown con la sintaxis <code>[^1]</code>.</p>
-</details>
-
----
-
 ### 🌪️ ¿Qué es la contaminación ambiental?
 
 Entendemos por contaminación ambiental la introducción de sustancias o formas de energía nocivas en un ecosistema natural. En el ámbito informático, este concepto se traduce directamente en las toneladas de Gases de Efecto Invernadero liberados a la capa de ozono por culpa del masivo consumo de la red eléctrica, la cual exige abastecer los enormes Centros de Datos que construyen nuestra internet global.
